@@ -85,7 +85,7 @@
 #### ✍️ Random Dev Quote
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=baocuns&icon=0&color=0)](https://visitcount.itsvg.in)
