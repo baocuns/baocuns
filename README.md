@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <td>
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=baocuns&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=baocuns&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
       </td>
     </tr>
   </tbody>
