@@ -1,10 +1,11 @@
 ### 💫 About Me :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Mobile+Developer;I'm+a+Full+Stack+Developer;I'm+a+Blogger;I'm+a+super+handsome+guy+:v"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Mobile+Developer;I'm+a+Full+Stack+Developer;I'm+a+social+media+celebrities;I'm+a+super+handsome+guy+:v"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 🔥 : Here is <a href="https://www.baocuns.com/">my personal website</a>
+- Internship : Freesia Corporation in Japan ![image](https://github.com/baocuns/baocuns/assets/84298882/db4d20cf-9814-4d1b-b027-63ea44557011)
+- 🔥 : Here is my personal website <a href="https://www.baocuns.com/">BCuns Entertainment</a>
 - ❤️ : I'm passionate about
   - 🔐 Information Security
   - 🪐 Operating Systems (Windows & Linux & MacOS)
