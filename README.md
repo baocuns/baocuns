@@ -4,8 +4,8 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Mobile+Developer;I'm+a+Full+Stack+Developer;I'm+a+social+media+celebrities;I'm+a+super+handsome+guy+:v"></p>
 
 - 🇻🇳 : I'm from VietNam
-- Internship : Freesia Corporation in Japan ![image](https://github.com/baocuns/baocuns/assets/84298882/db4d20cf-9814-4d1b-b027-63ea44557011)
-- 🔥 : Here is my personal website <a href="https://www.baocuns.com/">BCuns Entertainment</a>
+- Internship : Freesia Corporation in Japan ![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan")
+- 🔥 : Here is my personal website <a href="https://www.baocuns.com/">BCuns Entertainments</a>
 - ❤️ : I'm passionate about
   - 🔐 Information Security
   - 🪐 Operating Systems (Windows & Linux & MacOS)
