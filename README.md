@@ -5,7 +5,7 @@
 
 - 🇻🇳 : I'm from VietNam
 - Internship : Freesia Corporation in Japan ![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan")
-- 🔥 : Here is my personal website <a href="https://www.bcent.com/">BCuns Entertainments</a>
+- 🔥 : Here is my personal website <a href="https://www.bcent.online/">BCuns Entertainments</a>
 - ❤️ : I'm passionate about
   - 🔐 Information Security
   - 🪐 Operating Systems (Windows & Linux & MacOS)
